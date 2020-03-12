@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CloudComputing.iml" filepath="$PROJECT_DIR$/.idea/CloudComputing.iml" />
+      <module fileurl="file://D:/大三上/云计算/Hanhan-Spark-Python/.idea/Hanhan-Spark-Python.iml" filepath="D:/大三上/云计算/Hanhan-Spark-Python/.idea/Hanhan-Spark-Python.iml" />
+      <module fileurl="file://D:/大三上/learnSpider/ProxyPool(germey)/.idea/ProxyPool(germey).iml" filepath="D:/大三上/learnSpider/ProxyPool(germey)/.idea/ProxyPool(germey).iml" />
+      <module fileurl="file://D:/大三上/learnSpider/Weibo/.idea/Weibo.iml" filepath="D:/大三上/learnSpider/Weibo/.idea/Weibo.iml" />
+      <module fileurl="file://D:/大三上/云计算/mongo-spark/.idea/mongo-spark.iml" filepath="D:/大三上/云计算/mongo-spark/.idea/mongo-spark.iml" />
+      <module fileurl="file://D:/大三上/learnSpider/proxy_pool(jHao)/.idea/proxy_pool.iml" filepath="D:/大三上/learnSpider/proxy_pool(jHao)/.idea/proxy_pool.iml" />
+      <module fileurl="file://D:/大三上/learnSpider/weixin/.idea/weixin.iml" filepath="D:/大三上/learnSpider/weixin/.idea/weixin.iml" />
+    </modules>
+  </component>
+</project>
